@@ -1,0 +1,320 @@
+[
+    {
+        "model": "projekt.club",
+        "pk": 1,
+        "fields": {
+            "name": "Atletico Madrid",
+            "description": ".",
+            "trophies": ""
+        }
+    },
+    {
+        "model": "projekt.club",
+        "pk": 2,
+        "fields": {
+            "name": "Real Madrid",
+            "description": "A club based in Madrid.",
+            "trophies": "La Liga, Champions League"
+        }
+    },
+    {
+        "model": "projekt.club",
+        "pk": 3,
+        "fields": {
+            "name": "Barcelona",
+            "description": "Futbol Club Barcelona - kataloński wielosekcyjny zawodowy klub sportowy z Barcelony (Hiszpania), istniejący od 29 listopada 1899 roku. Jego motto to Més que un club (pol. Więcej niż klub)",
+            "trophies": "Męska drużyna piłkarska Barçy zdobyła: 5 razy Ligę Mistrzów, 27 razy LaLigę, 31 razy Puchar Króla, 3 razy Klubowe Mistrzostwo Świata, 4 razy Puchar Zdobywców Pucharów, 5 razy Superpuchar Europy i 14 razy Superpuchar Hiszpanii"
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 1,
+        "fields": {
+            "name": "Marc-Andre ter Stergen",
+            "number": "1",
+            "position": "Bramkarz",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 2,
+        "fields": {
+            "name": "Ińaki Peńa",
+            "number": "13",
+            "position": "Bramkarz",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 3,
+        "fields": {
+            "name": "Wojciech Szczęsny",
+            "number": "25",
+            "position": "Bramkarz",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 4,
+        "fields": {
+            "name": "Ander Astralaga",
+            "number": "26",
+            "position": "Bramkarz",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 5,
+        "fields": {
+            "name": "Pau Cubarsi",
+            "number": "2",
+            "position": "Środkowy Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 6,
+        "fields": {
+            "name": "Ronald Araujo",
+            "number": "4",
+            "position": "Środkowy Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 7,
+        "fields": {
+            "name": "Andreas Christensen",
+            "number": "15",
+            "position": "Środkowy Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 8,
+        "fields": {
+            "name": "Eric Garcia",
+            "number": "24",
+            "position": "Środkowy Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 9,
+        "fields": {
+            "name": "Ińigo Martinez",
+            "number": "5",
+            "position": "Środkowy Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 10,
+        "fields": {
+            "name": "Sergi Domingeuz",
+            "number": "36",
+            "position": "Środkowy Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 11,
+        "fields": {
+            "name": "Alejandro Balde",
+            "number": "3",
+            "position": "Boczny Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 12,
+        "fields": {
+            "name": "Gerard Martin",
+            "number": "35",
+            "position": "Boczny Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 13,
+        "fields": {
+            "name": "Jules Kounde",
+            "number": "23",
+            "position": "Boczny Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 14,
+        "fields": {
+            "name": "Hector Fort",
+            "number": "32",
+            "position": "Boczny Obrońca",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 15,
+        "fields": {
+            "name": "Mard Casado",
+            "number": "17",
+            "position": "Defensywny Pomocnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 16,
+        "fields": {
+            "name": "Marc Bernal",
+            "number": "28",
+            "position": "Defensywny Pomocnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 17,
+        "fields": {
+            "name": "Pedri",
+            "number": "8",
+            "position": "Środkowy Pomocnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 18,
+        "fields": {
+            "name": "Gavi",
+            "number": "6",
+            "position": "Środkowy Pomocnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 19,
+        "fields": {
+            "name": "Fermin Lopez",
+            "number": "16",
+            "position": "Środkowy Pomocnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 20,
+        "fields": {
+            "name": "Frenkie de Jong",
+            "number": "21",
+            "position": "Środkowy Pomocnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 21,
+        "fields": {
+            "name": "Dani Olmo",
+            "number": "20",
+            "position": "Ofensywny Pomocnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 22,
+        "fields": {
+            "name": "Pablo Torre",
+            "number": "14",
+            "position": "Ofensywny Pomocnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 23,
+        "fields": {
+            "name": "Raphinha",
+            "number": "11",
+            "position": "Skrzydłowy",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 24,
+        "fields": {
+            "name": "Ansu Fati",
+            "number": "10",
+            "position": "Skrzydłowy",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 25,
+        "fields": {
+            "name": "Lamine Yamal",
+            "number": "19",
+            "position": "Skrzydłowy",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 26,
+        "fields": {
+            "name": "Ferran Torres",
+            "number": "7",
+            "position": "Skrzydłowy",
+            "club": 3
+        }
+    },
+    
+    {
+        "model": "projekt.player",
+        "pk": 27,
+        "fields": {
+            "name": "Robert Lewandowski",
+            "number": "9",
+            "position": "Napastnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 28,
+        "fields": {
+            "name": "Pau Victor",
+            "number": "18",
+            "position": "Napastnik",
+            "club": 3
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 1,
+        "fields": {
+            "name": "Marc-Andre ter Stergen",
+            "number": "1",
+            "position": "Bramkarz",
+            "club": 3
+        }
+    }
+]

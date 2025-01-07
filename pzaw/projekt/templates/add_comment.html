@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Comment</title>
+</head>
+<body>
+    <h1>Add Comment for {{ player.name }}</h1>
+    <form method="post">
+        {% csrf_token %}
+        <textarea name="content" rows="4" cols="50"></textarea><br>
+        <button type="submit">Submit</button>
+    </form>
+    <a href="{% url 'player_detail' player.id %}">Back to player</a>
+</body>
+</html>
