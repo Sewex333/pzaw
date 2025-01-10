@@ -15,7 +15,7 @@
     <div class="comments">
         {% for comment in comments %}
             <div class="comment">
-                <p>{{ comment.user }}: {{ comment.content }}</p>
+                <p><strong>{{ comment.user.username }}:</strong> {{ comment.content }}</p>
             </div>
         {% empty %}
             <p>Brak komentarzy.</p>
@@ -27,7 +27,7 @@
     <form method="post">
         {% csrf_token %}
         <textarea name="content" rows="4"></textarea><br>
-        <button type="submit">Submit</button>
+        <button type="submit">Dodaj komentarz</button>
     </form>
     {% else %}
     <p>Logowanie wymagane.</p>

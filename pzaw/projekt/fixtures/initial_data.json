@@ -4,8 +4,229 @@
         "pk": 1,
         "fields": {
             "name": "Atletico Madrid",
-            "description": ".",
-            "trophies": ""
+            "description": "Club Atlético de Madrid - hiszpański klub piłkarski mający siedzibę w Madrycie. Domowe mecze, od sezonu 2017/2018, rozgrywa na stadionie Civitas Metropolitano, który może pomieścić 68 000 widzów.",
+            "trophies": "Męska drużyna piłkarska Atletico zdobyła: 11 razy Laligę, 3 razy Superpuchar Europy, 3 razy Ligę Europy, Raz Puchar zdobywców Pucharów, 10 razy Puchar Króla, 2 razy Superpuchar Hiszpanii oraz Raz Interkontynentalny Puchar."
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 30,
+        "fields": {
+            "name": "Jan Oblak",
+            "number": "13",
+            "position": "Bramkarz",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 31,
+        "fields": {
+            "name": "Juan Musso",
+            "number": "1",
+            "position": "Bramkarz",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 32,
+        "fields": {
+            "name": "Robin Le Normand",
+            "number": "24",
+            "position": "Środkowy Obrońca",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 33,
+        "fields": {
+            "name": "Jose Maria Gimenez",
+            "number": "2",
+            "position": "Środkowy Obrońca",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 34,
+        "fields": {
+            "name": "Clement Lenglet",
+            "number": "15",
+            "position": "Środkowy Obrońca",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 35,
+        "fields": {
+            "name": "Axel Witsel",
+            "number": "20",
+            "position": "Środkowy Obrońca",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 36,
+        "fields": {
+            "name": "Cesar Azpilicueta",
+            "number": "3",
+            "position": "Środkowy Obrońca",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 37,
+        "fields": {
+            "name": "Reinildo Mandava",
+            "number": "23",
+            "position": "Boczny Obrońca",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 38,
+        "fields": {
+            "name": "Javi Galan",
+            "number": "21",
+            "position": "Boczny Obrońca",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 39,
+        "fields": {
+            "name": "Nahuel Molina",
+            "number": "16",
+            "position": "Boczny Obrońca",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 40,
+        "fields": {
+            "name": "Pablo Barrios",
+            "number": "8",
+            "position": "Środkowy Pomocnik",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 41,
+        "fields": {
+            "name": "Conor Gallagher",
+            "number": "4",
+            "position": "Środkowy Pomocnik",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 42,
+        "fields": {
+            "name": "Rodrigo De Paul",
+            "number": "5",
+            "position": "Środkowy Pomocnik",
+            "club": 1
+        }
+    },
+    
+    {
+        "model": "projekt.player",
+        "pk": 43,
+        "fields": {
+            "name": "Koke",
+            "number": "6",
+            "position": "Środkowy Pomocnik",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 44,
+        "fields": {
+            "name": "Thomas Lemar",
+            "number": "11",
+            "position": "Ofensywny Pomocnik",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 45,
+        "fields": {
+            "name": "Samuel Lino",
+            "number": "12",
+            "position": "Skrzydłowy",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 46,
+        "fields": {
+            "name": "Rodrigo Riquelme",
+            "number": "17",
+            "position": "Skrzydłowy",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 47,
+        "fields": {
+            "name": "Angel Correa",
+            "number": "10",
+            "position": "Skrzydłowy",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 48,
+        "fields": {
+            "name": "Giuliano Simeone",
+            "number": "22",
+            "position": "Skrzydłowy",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 49,
+        "fields": {
+            "name": "Julian Alvarez",
+            "number": "19",
+            "position": "Napastnik",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 50,
+        "fields": {
+            "name": "Alexander Sørloth",
+            "number": "9",
+            "position": "Napastnik",
+            "club": 1
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 51,
+        "fields": {
+            "name": "Antoine Griezmann",
+            "number": "7",
+            "position": "Napastnik",
+            "club": 1
         }
     },
     {
@@ -13,8 +234,239 @@
         "pk": 2,
         "fields": {
             "name": "Real Madrid",
-            "description": "A club based in Madrid.",
-            "trophies": "La Liga, Champions League"
+            "description": "Real Madrid Club de Fútbol - hiszpański klub sportowy powstały w 1902. Słynie głównie z sukcesów istniejącej od chwili założenia drużyny piłki nożnej. W 2000 roku przyznano mu przez FIFA tytuł najlepszego klubu w XX wieku.",
+            "trophies": "Męska drużyna piłkarska Realu zdobyła: 15 razy Ligę Mistrzów, 5 razy Klubowe Mistrzostwa Świata, 36 razy LaLigę, 6 Superpuchar Europy, 2 razy UEFA Cup Winner, Raz Interkontynentalny Puchar FIFA, 20 razy Puchar Króla, 13 razy Superpuchar Hiszpanii, 3 razy Puchar Zdobywców Pucharów"
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 52,
+        "fields": {
+            "name": "Thibaut Courtois",
+            "number": "1",
+            "position": "Bramkarz",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 53,
+        "fields": {
+            "name": "Andriy Lunin",
+            "number": "13",
+            "position": "Bramkarz",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 54,
+        "fields": {
+            "name": "Eder Militao",
+            "number": "3",
+            "position": "Środkowy Obrońca",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 55,
+        "fields": {
+            "name": "Antonio Rudiger",
+            "number": "22",
+            "position": "Środkowy Obrońca",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 56,
+        "fields": {
+            "name": "David Alaba",
+            "number": "4",
+            "position": "Środkowy Obrońca",
+            "club": 2
+        }
+    },
+    
+    {
+        "model": "projekt.player",
+        "pk": 57,
+        "fields": {
+            "name": "Raul Asencio",
+            "number": "35",
+            "position": "Środkowy Obrońca",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 58,
+        "fields": {
+            "name": "Jesus Vallejo",
+            "number": "18",
+            "position": "Środkowy Obrońca",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 59,
+        "fields": {
+            "name": "Ferlnad Mendy",
+            "number": "23",
+            "position": "Boczny Obrońca",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 60,
+        "fields": {
+            "name": "Fran Garcia",
+            "number": "20",
+            "position": "Boczny Obrońca",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 61,
+        "fields": {
+            "name": "Daniel Carvajal",
+            "number": "2",
+            "position": "Boczny Obrońca",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 62,
+        "fields": {
+            "name": "Lucas Vazquez",
+            "number": "17",
+            "position": "Boczny Obrońca",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 63,
+        "fields": {
+            "name": "Aurelien Tchouameni",
+            "number": "14",
+            "position": "Defensywny Pomocnik",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 64,
+        "fields": {
+            "name": "Federico Valverde",
+            "number": "8",
+            "position": "Środkowy Pomocnik",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 65,
+        "fields": {
+            "name": "Eduardo Camavinga",
+            "number": "6",
+            "position": "Środkowy Pomocnik",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 66,
+        "fields": {
+            "name": "Luka Modric",
+            "number": "10",
+            "position": "Środkowy Pomocnik",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 67,
+        "fields": {
+            "name": "Dani Ceballos",
+            "number": "19",
+            "position": "Środkowy Pomocnik",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 68,
+        "fields": {
+            "name": "Jude Bellingham",
+            "number": "5",
+            "position": "Ofensywny Pomocnik",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 69,
+        "fields": {
+            "name": "Vinicjus Junior",
+            "number": "7",
+            "position": "Skrzydłowy",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 70,
+        "fields": {
+            "name": "Rodrygo",
+            "number": "11",
+            "position": "Skrzydłowy",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 71,
+        "fields": {
+            "name": "Arda Guler",
+            "number": "15",
+            "position": "Skrzydłowy",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 72,
+        "fields": {
+            "name": "Brahim Diaz",
+            "number": "21",
+            "position": "Skrzydłowy",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 73,
+        "fields": {
+            "name": "Kylian Mbappe",
+            "number": "9",
+            "position": "Napastnik",
+            "club": 2
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 74,
+        "fields": {
+            "name": "Endrick",
+            "number": "16",
+            "position": "Napastnik",
+            "club": 2
         }
     },
     {
@@ -308,13 +760,252 @@
         }
     },
     {
-        "model": "projekt.player",
-        "pk": 1,
+        "model": "projekt.club",
+        "pk": 4,
         "fields": {
-            "name": "Marc-Andre ter Stergen",
-            "number": "1",
+            "name": "Arsenal",
+            "description": "Arsenal Football Club (przydomek The Gunners, Kanonierzy) - angielski klub piłkarski z siedzibą w północnym Londynie, w dzielnicy Holloway. Arsenal został założony w 1886 roku.",
+            "trophies": "Męska drużyna piłkarska Arsenalu zdobyła: 13 razy Ligę Angielską, Raz Puchar zdobywców Pucharów, 14 razy puchar FA, 17 razy Tarczę Wspólnoty, 2 razy puchar ligi   "
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 75,
+        "fields": {
+            "name": "David Raya",
+            "number": "22",
             "position": "Bramkarz",
-            "club": 3
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 76,
+        "fields": {
+            "name": "Neto",
+            "number": "32",
+            "position": "Bramkarz",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 77,
+        "fields": {
+            "name": "William Saliba",
+            "number": "2",
+            "position": "Środkowy Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 78,
+        "fields": {
+            "name": "Gabriel Magalhaes",
+            "number": "6",
+            "position": "Środkowy Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 79,
+        "fields": {
+            "name": "Jakub Kiwior",
+            "number": "15",
+            "position": "Środkowy Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 80,
+        "fields": {
+            "name": "Riccardo Calafiori",
+            "number": "33",
+            "position": "Boczny Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 81,
+        "fields": {
+            "name": "Oleksandr Zinchenko",
+            "number": "17",
+            "position": "Boczny Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 82,
+        "fields": {
+            "name": "Kieran Tierney",
+            "number": "3",
+            "position": "Boczny Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 83,
+        "fields": {
+            "name": "Myles Lewis-Skelly",
+            "number": "49",
+            "position": "Boczny Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 84,
+        "fields": {
+            "name": "Ben White",
+            "number": "4",
+            "position": "Boczny Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 85,
+        "fields": {
+            "name": "Jurrien Tumber",
+            "number": "12",
+            "position": "Boczny Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 86,
+        "fields": {
+            "name": "Takehiro Tomiyasu",
+            "number": "18",
+            "position": "Boczny Obrońca",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 87,
+        "fields": {
+            "name": "Thomas Partey",
+            "number": "5",
+            "position": "Defensywny Pomocnik",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 88,
+        "fields": {
+            "name": "Jorginho",
+            "number": "20",
+            "position": "Defensywny Pomocnik",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 89,
+        "fields": {
+            "name": "Declan Rice",
+            "number": "41",
+            "position": "Defensywny Pomocnik",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 90,
+        "fields": {
+            "name": "Mikel Merino",
+            "number": "23",
+            "position": "Środkowy Pomocnik",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 91,
+        "fields": {
+            "name": "Martin Ødegaard",
+            "number": "8",
+            "position": "Środkowy Pomocnik",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 92,
+        "fields": {
+            "name": "Ethan Nwaneri",
+            "number": "53",
+            "position": "Ofensywny Pomocnik",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 93,
+        "fields": {
+            "name": "Gabriel Martinelli",
+            "number": "11",
+            "position": "Skrzydłowy",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 94,
+        "fields": {
+            "name": "Leonardo Trossard",
+            "number": "19",
+            "position": "Skrzydłowy",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 95,
+        "fields": {
+            "name": "Bukayo Saka",
+            "number": "7",
+            "position": "Skrzydłowy",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 96,
+        "fields": {
+            "name": "Raheem Sterling",
+            "number": "30",
+            "position": "Skrzydłowy",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 97,
+        "fields": {
+            "name": "Kai Havertz",
+            "number": "29",
+            "position": "Napastnik",
+            "club": 4
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 98,
+        "fields": {
+            "name": "Gabriel Jesus",
+            "number": "9",
+            "position": "Napastnik",
+            "club": 4
         }
     }
 ]
