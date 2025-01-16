@@ -1007,5 +1007,3314 @@
             "position": "Napastnik",
             "club": 4
         }
-    }
-]
+    },
+    {
+        "model": "projekt.club",
+        "pk": 5,
+        "fields": {
+            "name": "Manchester United",
+            "description": "Manchester United Football Club (przydomek The Red Devils) - angielski klub piłkarski z siedzibą w Manchesterze, założony w 1878 roku jako Newton Heath.",
+            "trophies": "Męska drużyna piłkarska Manchesteru United zdobyła: 20 razy Ligę Angielską, 3 razy Ligę Mistrzów, 13 razy Puchar FA, 6 razy Puchar Ligi, 21 razy Tarczę Wspólnoty, raz klubowe Mistrzostwa świata oraz raz ligę Europy"
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 99,
+        "fields": {
+            "name": "André Onana",
+            "number": "24",
+            "position": "Bramkarz",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 100,
+        "fields": {
+            "name": "Altay Bayındır",
+            "number": "1",
+            "position": "Bramkarz",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 101,
+        "fields": {
+            "name": "Tom Heaton",
+            "number": "22",
+            "position": "Bramkarz",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 102,
+        "fields": {
+            "name": "Leny Yoro",
+            "number": "15",
+            "position": "Środkowy obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 103,
+        "fields": {
+            "name": "Lisandro Martínez",
+            "number": "6",
+            "position": "Środkowy obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 104,
+        "fields": {
+            "name": "Matthijs de Ligt",
+            "number": "4",
+            "position": "Środkowy obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 105,
+        "fields": {
+            "name": "Harry Maguire",
+            "number": "5",
+            "position": "Środkowy obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 106,
+        "fields": {
+            "name": "Victor Lindelöf",
+            "number": "2",
+            "position": "Środkowy obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 107,
+        "fields": {
+            "name": "Jonny Evans",
+            "number": "35",
+            "position": "Środkowy obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 108,
+        "fields": {
+            "name": "Luke Shaw",
+            "number": "23",
+            "position": "Boczny Obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 109,
+        "fields": {
+            "name": "Tyrell Malacia",
+            "number": "12",
+            "position": "Boczny Obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 110,
+        "fields": {
+            "name": "Diogo Dalot",
+            "number": "20",
+            "position": "Boczny Obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 111,
+        "fields": {
+            "name": "Noussair Mazraoui",
+            "number": "3",
+            "position": "Boczny Obrońca",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 112,
+        "fields": {
+            "name": "Manuel Ugarte",
+            "number": "25",
+            "position": "Defensywny pomocnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 113,
+        "fields": {
+            "name": "Casemiro",
+            "number": "18",
+            "position": "Defensywny pomocnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 114,
+        "fields": {
+            "name": "Toby Collyer",
+            "number": "43",
+            "position": "Defensywny pomocnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 115,
+        "fields": {
+            "name": "Kobbie Mainoo",
+            "number": "37",
+            "position": "Środkowy pomocnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 116,
+        "fields": {
+            "name": "Christian Eriksen",
+            "number": "14",
+            "position": "Środkowy pomocnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 117,
+        "fields": {
+            "name": "Daniel Gore",
+            "number": "44",
+            "position": "Środkowy pomocnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 118,
+        "fields": {
+            "name": "Bruno Fernandes",
+            "number": "8",
+            "position": "Ofensywny pomocnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 119,
+        "fields": {
+            "name": "Mason Mount",
+            "number": "7",
+            "position": "Ofensywny pomocnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 120,
+        "fields": {
+            "name": "Marcus Rashford",
+            "number": "10",
+            "position": "Skrzydłowy",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 121,
+        "fields": {
+            "name": "Alejandro Garnacho",
+            "number": "17",
+            "position": "Skrzydłowy",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 122,
+        "fields": {
+            "name": "Amad Diallo",
+            "number": "16",
+            "position": "Skrzydłowy",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 123,
+        "fields": {
+            "name": "Antony",
+            "number": "21",
+            "position": "Skrzydłowy",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 124,
+        "fields": {
+            "name": "Rasmus Højlund",
+            "number": "9",
+            "position": "Napastnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 125,
+        "fields": {
+            "name": "Joshua Zirkzee",
+            "number": "11",
+            "position": "Napastnik",
+            "club": 5
+        }
+    },
+    {
+        "model": "projekt.club",
+        "pk": 6,
+        "fields": {
+            "name": "Manchester City",
+            "description": "Manchester City Football Club (przydomek The Citizens, Obywatele) - angielski klub piłkarski z siedzibą w Manchesterze. Manchester City został założony w 1880 roku.",
+            "trophies": "Męska drużyna piłkarska Manchesteru City zdobyła: 10 razy Ligę Angielską, 7 razy Puchar FA, 8 razy Puchar Ligi, 7 razy Tarczę Wspólnoty, 1 raz Ligę Mistrzów."
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 124,
+        "fields": {
+            "name": "Ederson",
+            "number": "31",
+            "position": "Bramkarz",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 125,
+        "fields": {
+            "name": "Stefan Ortega",
+            "number": "18",
+            "position": "Bramkarz",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 126,
+        "fields": {
+            "name": "Scott Carson",
+            "number": "33",
+            "position": "Bramkarz",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 127,
+        "fields": {
+            "name": "Rúben Dias",
+            "number": "3",
+            "position": "Środkowy obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 128,
+        "fields": {
+            "name": "Josko Gvardiol",
+            "number": "24",
+            "position": "Środkowy obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 129,
+        "fields": {
+            "name": "Manuel Akanji",
+            "number": "25",
+            "position": "Środkowy obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 130,
+        "fields": {
+            "name": "Nathan Aké",
+            "number": "6",
+            "position": "Środkowy obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 131,
+        "fields": {
+            "name": "John Stones",
+            "number": "5",
+            "position": "Środkowy obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 132,
+        "fields": {
+            "name": "Jahmai Simpson-Pusey",
+            "number": "66",
+            "position": "Środkowy obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 133,
+        "fields": {
+            "name": "Josh Wilson-Esbrand",
+            "number": "97",
+            "position": "Boczny Obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 134,
+        "fields": {
+            "name": "Rico Lewis",
+            "number": "82",
+            "position": "Boczny Obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 135,
+        "fields": {
+            "name": "Kyle Walker",
+            "number": "2",
+            "position": "Boczny Obrońca",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 136,
+        "fields": {
+            "name": "Rodri",
+            "number": "16",
+            "position": "Defensywny pomocnik",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 137,
+        "fields": {
+            "name": "Matheus Nunes",
+            "number": "27",
+            "position": "Środkowy pomocnik",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 138,
+        "fields": {
+            "name": "Mateo Kovacic",
+            "number": "8",
+            "position": "Środkowy pomocnik",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 139,
+        "fields": {
+            "name": "İlkay Gündoğan",
+            "number": "19",
+            "position": "Środkowy pomocnik",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 140,
+        "fields": {
+            "name": "Bernardo Silva",
+            "number": "20",
+            "position": "Ofensywny pomocnik",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 141,
+        "fields": {
+            "name": "Kevin De Bruyne",
+            "number": "17",
+            "position": "Ofensywny pomocnik",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 142,
+        "fields": {
+            "name": "James McAtee",
+            "number": "87",
+            "position": "Ofensywny pomocnik",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 143,
+        "fields": {
+            "name": "Jérémy Doku",
+            "number": "11",
+            "position": "Skrzydłowy",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 144,
+        "fields": {
+            "name": "Jack Grealish",
+            "number": "10",
+            "position": "Skrzydłowy",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 145,
+        "fields": {
+            "name": "Phil Foden",
+            "number": "47",
+            "position": "Skrzydłowy",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 146,
+        "fields": {
+            "name": "Savinho",
+            "number": "26",
+            "position": "Skrzydłowy",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 147,
+        "fields": {
+            "name": "Oscar Bobb",
+            "number": "52",
+            "position": "Skrzydłowy",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 148,
+        "fields": {
+            "name": "Erling Haaland",
+            "number": "9",
+            "position": "Napastnik",
+            "club": 6
+        }
+    },
+    {
+        "model": "projekt.club",
+        "pk": 7,
+        "fields": {
+            "name": "Chelsea FC",
+            "description": "Chelsea Football Club to profesjonalny klub piłkarski z siedzibą w Londynie, Anglia. Został założony w 1905 roku i jest jednym z najbardziej utytułowanych klubów w angielskim futbolu.",
+            "trophies": "Chelsea zdobyła Mistrzostwo Anglii 6 razy, Puchar FA 8 razy, Puchar Ligi 5 razy, Ligę Mistrzów UEFA 2 razy oraz Ligę Europy UEFA 2 razy."
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 149,
+        "fields": {
+            "name": "Robert Sánchez",
+            "number": "1",
+            "position": "Bramkarz",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 150,
+        "fields": {
+            "name": "Filip Jørgensen",
+            "number": "12",
+            "position": "Bramkarz",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 151,
+        "fields": {
+            "name": "Marcus Bettinelli",
+            "number": "13",
+            "position": "Bramkarz",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 152,
+        "fields": {
+            "name": "Lucas Bergström",
+            "number": "47",
+            "position": "Bramkarz",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 153,
+        "fields": {
+            "name": "Levi Colwill",
+            "number": "6",
+            "position": "Środkowy obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 154,
+        "fields": {
+            "name": "Axel Disasi",
+            "number": "2",
+            "position": "Środkowy obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 155,
+        "fields": {
+            "name": "Wesley Fofana",
+            "number": "29",
+            "position": "Środkowy obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 156,
+        "fields": {
+            "name": "Benoît Badiashile",
+            "number": "5",
+            "position": "Środkowy obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 157,
+        "fields": {
+            "name": "Tosin Adarabioyo",
+            "number": "4",
+            "position": "Środkowy obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 158,
+        "fields": {
+            "name": "Trevoh Chalobah",
+            "number": "23",
+            "position": "Środkowy obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 159,
+        "fields": {
+            "name": "Aarón Anselmino",
+            "number": "0",
+            "position": "Środkowy obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 160,
+        "fields": {
+            "name": "Marc Cucurella",
+            "number": "3",
+            "position": "Boczny obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 161,
+        "fields": {
+            "name": "Ben Chilwell",
+            "number": "21",
+            "position": "Boczny obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 162,
+        "fields": {
+            "name": "Renato Veiga",
+            "number": "40",
+            "position": "Boczny obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 163,
+        "fields": {
+            "name": "Malo Gusto",
+            "number": "27",
+            "position": "Boczny obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 164,
+        "fields": {
+            "name": "Reece James",
+            "number": "24",
+            "position": "Boczny obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 165,
+        "fields": {
+            "name": "Josh Acheampong",
+            "number": "34",
+            "position": "Boczny obrońca",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 166,
+        "fields": {
+            "name": "Moisés Caicedo",
+            "number": "25",
+            "position": "Defensywny pomocnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 167,
+        "fields": {
+            "name": "Roméo Lavia",
+            "number": "45",
+            "position": "Defensywny pomocnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 168,
+        "fields": {
+            "name": "Enzo Fernández",
+            "number": "8",
+            "position": "Środkowy pomocnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 169,
+        "fields": {
+            "name": "Kiernan Dewsbury-Hall",
+            "number": "22",
+            "position": "Środkowy pomocnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 170,
+        "fields": {
+            "name": "Carney Chukwuemeka",
+            "number": "17",
+            "position": "Środkowy pomocnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 171,
+        "fields": {
+            "name": "Cesare Casadei",
+            "number": "31",
+            "position": "Środkowy pomocnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 172,
+        "fields": {
+            "name": "Cole Palmer",
+            "number": "20",
+            "position": "Ofensywny pomocnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 173,
+        "fields": {
+            "name": "Mykhaylo Mudryk",
+            "number": "10",
+            "position": "Skrzydłowy",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 174,
+        "fields": {
+            "name": "Jadon Sancho",
+            "number": "19",
+            "position": "Skrzydłowy",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 175,
+        "fields": {
+            "name": "Tyrique George",
+            "number": "32",
+            "position": "Skrzydłowy",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 176,
+        "fields": {
+            "name": "Pedro Neto",
+            "number": "7",
+            "position": "Skrzydłowy",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 177,
+        "fields": {
+            "name": "Noni Madueke",
+            "number": "11",
+            "position": "Skrzydłowy",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 178,
+        "fields": {
+            "name": "João Félix",
+            "number": "14",
+            "position": "Napastnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 179,
+        "fields": {
+            "name": "Nicolas Jackson",
+            "number": "15",
+            "position": "Napastnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 180,
+        "fields": {
+            "name": "Christopher Nkunku",
+            "number": "18",
+            "position": "Napastnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 181,
+        "fields": {
+            "name": "Deivid Washington",
+            "number": "36",
+            "position": "Napastnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 182,
+        "fields": {
+            "name": "Marc Guiu",
+            "number": "38",
+            "position": "Napastnik",
+            "club": 7
+        }
+    },
+    {
+        "model": "projekt.club",
+        "pk": 8,
+        "fields": {
+            "name": "Liverpool FC",
+            "description": "Liverpool Football Club to profesjonalny klub piłkarski z siedzibą w Liverpoolu, Anglia. Został założony w 1892 roku, a jego kibice uważają go za jeden z najlepszych klubów w historii angielskiego futbolu.",
+            "trophies": "Liverpool zdobył Mistrzostwo Anglii 19 razy, Puchar FA 8 razy, Puchar Ligi 9 razy, Ligę Mistrzów UEFA 6 razy oraz Ligę Europy UEFA 3 razy."
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 183,
+        "fields": {
+            "name": "Alisson",
+            "number": "1",
+            "position": "Bramkarz",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 184,
+        "fields": {
+            "name": "Caoimhín Kelleher",
+            "number": "62",
+            "position": "Bramkarz",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 185,
+        "fields": {
+            "name": "Vitezslav Jaros",
+            "number": "56",
+            "position": "Bramkarz",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 186,
+        "fields": {
+            "name": "Ibrahima Konaté",
+            "number": "5",
+            "position": "Środkowy obrońca",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 187,
+        "fields": {
+            "name": "Joe Gomez",
+            "number": "2",
+            "position": "Środkowy obrońca",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 188,
+        "fields": {
+            "name": "Virgil van Dijk",
+            "number": "4",
+            "position": "Środkowy obrońca",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 189,
+        "fields": {
+            "name": "Jarell Quansah",
+            "number": "78",
+            "position": "Środkowy obrońca",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 190,
+        "fields": {
+            "name": "Andrew Robertson",
+            "number": "26",
+            "position": "Boczny obrońca",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 191,
+        "fields": {
+            "name": "Konstantinos Tsimikas",
+            "number": "21",
+            "position": "Boczny obrońca",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 192,
+        "fields": {
+            "name": "Trent Alexander-Arnold",
+            "number": "66",
+            "position": "Boczny obrońca",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 193,
+        "fields": {
+            "name": "Conor Bradley",
+            "number": "84",
+            "position": "Boczny obrońca",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 194,
+        "fields": {
+            "name": "Ryan Gravenberch",
+            "number": "38",
+            "position": "Defensywny pomocnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 195,
+        "fields": {
+            "name": "Wataru Endo",
+            "number": "3",
+            "position": "Defensywny pomocnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 196,
+        "fields": {
+            "name": "Tyler Morton",
+            "number": "80",
+            "position": "Defensywny pomocnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 197,
+        "fields": {
+            "name": "Alexis Mac Allister",
+            "number": "10",
+            "position": "Środkowy pomocnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 198,
+        "fields": {
+            "name": "Dominik Szoboszlai",
+            "number": "8",
+            "position": "Środkowy pomocnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 199,
+        "fields": {
+            "name": "Curtis Jones",
+            "number": "17",
+            "position": "Środkowy pomocnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 200,
+        "fields": {
+            "name": "Harvey Elliott",
+            "number": "19",
+            "position": "Środkowy pomocnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 201,
+        "fields": {
+            "name": "Luis Díaz",
+            "number": "7",
+            "position": "Skrzydłowy",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 202,
+        "fields": {
+            "name": "Cody Gakpo",
+            "number": "18",
+            "position": "Skrzydłowy",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 203,
+        "fields": {
+            "name": "Mohamed Salah",
+            "number": "11",
+            "position": "Skrzydłowy",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 204,
+        "fields": {
+            "name": "Federico Chiesa",
+            "number": "14",
+            "position": "Skrzydłowy",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 205,
+        "fields": {
+            "name": "Darwin Núñez",
+            "number": "9",
+            "position": "Napastnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 206,
+        "fields": {
+            "name": "Diogo Jota",
+            "number": "20",
+            "position": "Napastnik",
+            "club": 8
+        }
+    },
+    {
+        "model": "projekt.club",
+        "pk": 9,
+        "fields": {
+            "name": "Tottenham Hotspur FC",
+            "description": "Tottenham Hotspur Football Club to profesjonalny klub piłkarski z siedzibą w Londynie, Anglia. Klub został założony w 1882 roku, a jego fani są dumni z długiej historii i tradycji.",
+            "trophies": "Tottenham zdobył Mistrzostwo Anglii 2 razy, Puchar FA 8 razy, Puchar Ligi 4 razy oraz Puchar UEFA 2 razy."
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 207,
+        "fields": {
+            "name": "Guglielmo Vicario",
+            "number": "1",
+            "position": "Bramkarz",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 208,
+        "fields": {
+            "name": "Antonín Kinský",
+            "number": "31",
+            "position": "Bramkarz",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 209,
+        "fields": {
+            "name": "Fraser Forster",
+            "number": "20",
+            "position": "Bramkarz",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 210,
+        "fields": {
+            "name": "Brandon Austin",
+            "number": "40",
+            "position": "Bramkarz",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 211,
+        "fields": {
+            "name": "Alfie Whiteman",
+            "number": "41",
+            "position": "Bramkarz",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 212,
+        "fields": {
+            "name": "Cristian Romero",
+            "number": "17",
+            "position": "Środkowy obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 213,
+        "fields": {
+            "name": "Micky van de Ven",
+            "number": "37",
+            "position": "Środkowy obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 214,
+        "fields": {
+            "name": "Radu Drăgușin",
+            "number": "6",
+            "position": "Środkowy obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 215,
+        "fields": {
+            "name": "Ben Davies",
+            "number": "33",
+            "position": "Środkowy obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 216,
+        "fields": {
+            "name": "Destiny Udogie",
+            "number": "13",
+            "position": "Boczny obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 217,
+        "fields": {
+            "name": "Sergio Reguilón",
+            "number": "3",
+            "position": "Boczny obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 218,
+        "fields": {
+            "name": "Pedro Porro",
+            "number": "23",
+            "position": "Boczny obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 219,
+        "fields": {
+            "name": "Archie Gray",
+            "number": "14",
+            "position": "Boczny obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 220,
+        "fields": {
+            "name": "Djed Spence",
+            "number": "24",
+            "position": "Boczny obrońca",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 221,
+        "fields": {
+            "name": "Yves Bissouma",
+            "number": "8",
+            "position": "Defensywny pomocnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 222,
+        "fields": {
+            "name": "Rodrigo Bentancur",
+            "number": "30",
+            "position": "Defensywny pomocnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 223,
+        "fields": {
+            "name": "Pape Matar Sarr",
+            "number": "29",
+            "position": "Środkowy pomocnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 224,
+        "fields": {
+            "name": "Lucas Bergvall",
+            "number": "15",
+            "position": "Środkowy pomocnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 225,
+        "fields": {
+            "name": "James Maddison",
+            "number": "10",
+            "position": "Ofensywny pomocnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 226,
+        "fields": {
+            "name": "Dejan Kulusevski",
+            "number": "21",
+            "position": "Ofensywny pomocnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 227,
+        "fields": {
+            "name": "Heung-min Son",
+            "number": "7",
+            "position": "Skrzydłowy",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 228,
+        "fields": {
+            "name": "Timo Werner",
+            "number": "16",
+            "position": "Skrzydłowy",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 229,
+        "fields": {
+            "name": "Mikey Moore",
+            "number": "47",
+            "position": "Skrzydłowy",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 230,
+        "fields": {
+            "name": "Brennan Johnson",
+            "number": "22",
+            "position": "Skrzydłowy",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 231,
+        "fields": {
+            "name": "Wilson Odobert",
+            "number": "28",
+            "position": "Skrzydłowy",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 232,
+        "fields": {
+            "name": "Min-hyeok Yang",
+            "number": "18",
+            "position": "Skrzydłowy",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 233,
+        "fields": {
+            "name": "Dominic Solanke",
+            "number": "19",
+            "position": "Napastnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 234,
+        "fields": {
+            "name": "Richarlison",
+            "number": "9",
+            "position": "Napastnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.player",
+        "pk": 235,
+        "fields": {
+            "name": "Will Lankshear",
+            "number": "42",
+            "position": "Napastnik",
+            "club": 9
+        }
+    },
+    {
+        "model": "projekt.club",
+        "pk": 10,
+        "fields": {
+            "name": "Inter Milan",
+            "description": "Inter Mediolan, znany również jako Internazionale, to jeden z najbardziej utytułowanych klubów we Włoszech. Założony w 1908 roku w Mediolanie, rywalizuje w Serie A i ma na koncie liczne sukcesy.",
+            "trophies": "Inter Mediolan zdobył 19 razy mistrzostwo Włoch (Serie A), 3 razy Ligę Mistrzów UEFA, 7 razy Puchar Włoch oraz 3 razy Puchar UEFA."
+        }
+    },
+      {
+            "model": "projekt.player",
+            "pk": 236,
+            "fields": {
+                "name": "Josep Martínez",
+                "number": "13",
+                "position": "Bramkarz",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 237,
+            "fields": {
+                "name": "Yann Sommer",
+                "number": "1",
+                "position": "Bramkarz",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 238,
+            "fields": {
+                "name": "Andrei Radu",
+                "number": "97",
+                "position": "Bramkarz",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 239,
+            "fields": {
+                "name": "Raffaele Di Gennaro",
+                "number": "12",
+                "position": "Bramkarz",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 240,
+            "fields": {
+                "name": "Alessandro Bastoni",
+                "number": "95",
+                "position": "Środkowy obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 241,
+            "fields": {
+                "name": "Benjamin Pavard",
+                "number": "28",
+                "position": "Środkowy obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 242,
+            "fields": {
+                "name": "Yann Bisseck",
+                "number": "31",
+                "position": "Środkowy obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 243,
+            "fields": {
+                "name": "Stefan de Vrij",
+                "number": "6",
+                "position": "Środkowy obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 244,
+            "fields": {
+                "name": "Tomás Palacios",
+                "number": "42",
+                "position": "Środkowy obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 245,
+            "fields": {
+                "name": "Francesco Acerbi",
+                "number": "15",
+                "position": "Środkowy obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 246,
+            "fields": {
+                "name": "Federico Dimarco",
+                "number": "32",
+                "position": "Boczny obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 247,
+            "fields": {
+                "name": "Carlos Augusto",
+                "number": "30",
+                "position": "Boczny obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 248,
+            "fields": {
+                "name": "Denzel Dumfries",
+                "number": "2",
+                "position": "Boczny obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 249,
+            "fields": {
+                "name": "Matteo Darmian",
+                "number": "36",
+                "position": "Boczny obrońca",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 250,
+            "fields": {
+                "name": "Hakan Çalhanoğlu",
+                "number": "20",
+                "position": "Defensywny pomocnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 251,
+            "fields": {
+                "name": "Kristjan Asllani",
+                "number": "21",
+                "position": "Defensywny pomocnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 252,
+            "fields": {
+                "name": "Nicolò Barella",
+                "number": "23",
+                "position": "Środkowy pomocnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 253,
+            "fields": {
+                "name": "Davide Frattesi",
+                "number": "16",
+                "position": "Środkowy pomocnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 254,
+            "fields": {
+                "name": "Piotr Zieliński",
+                "number": "7",
+                "position": "Środkowy pomocnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 255,
+            "fields": {
+                "name": "Henrikh Mkhitaryan",
+                "number": "22",
+                "position": "Środkowy pomocnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 256,
+            "fields": {
+                "name": "Tajon Buchanan",
+                "number": "17",
+                "position": "Skrzydłowy",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 257,
+            "fields": {
+                "name": "Joaquín Correa",
+                "number": "11",
+                "position": "Skrzydłowy",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 258,
+            "fields": {
+                "name": "Lautaro Martínez",
+                "number": "10",
+                "position": "Napastnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 259,
+            "fields": {
+                "name": "Marcus Thuram",
+                "number": "9",
+                "position": "Napastnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 260,
+            "fields": {
+                "name": "Mehdi Taremi",
+                "number": "99",
+                "position": "Napastnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 261,
+            "fields": {
+                "name": "Marko Arnautovic",
+                "number": "8",
+                "position": "Napastnik",
+                "club": 10
+            }
+        },
+        {
+            "model": "projekt.club",
+            "pk": 11,
+            "fields": {
+                "name": "Juventus",
+                "description": "Juventus to jeden z najbardziej utytułowanych klubów we Włoszech, z siedzibą w Turynie. Klub został założony w 1897 roku.",
+                "trophies": "Juventus zdobył Mistrzostwo Włoch 36 razy, Puchar Włoch 14 razy, Superpuchar Włoch 9 razy oraz Ligę Mistrzów 2 razy."
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 262,
+            "fields": {
+                "name": "Michele Di Gregorio",
+                "number": "29",
+                "position": "Bramkarz",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 263,
+            "fields": {
+                "name": "Mattia Perin",
+                "number": "1",
+                "position": "Bramkarz",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 264,
+            "fields": {
+                "name": "Carlo Pinsoglio",
+                "number": "23",
+                "position": "Bramkarz",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 265,
+            "fields": {
+                "name": "Bremer",
+                "number": "3",
+                "position": "Środkowy obrońca",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 266,
+            "fields": {
+                "name": "Federico Gatti",
+                "number": "4",
+                "position": "Środkowy obrońca",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 267,
+            "fields": {
+                "name": "Danilo",
+                "number": "6",
+                "position": "Środkowy obrońca",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 268,
+            "fields": {
+                "name": "Andrea Cambiaso",
+                "number": "27",
+                "position": "Lewy obrońca",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 269,
+            "fields": {
+                "name": "Juan Cabal",
+                "number": "32",
+                "position": "Lewy obrońca",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 270,
+            "fields": {
+                "name": "Jonas Rouhi",
+                "number": "40",
+                "position": "Lewy obrońca",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 271,
+            "fields": {
+                "name": "Nicolò Savona",
+                "number": "37",
+                "position": "Prawy obrońca",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 272,
+            "fields": {
+                "name": "Alberto Costa",
+                "number": "2",
+                "position": "Prawy obrońca",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 273,
+            "fields": {
+                "name": "Manuel Locatelli",
+                "number": "5",
+                "position": "Defensywny pomocnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 274,
+            "fields": {
+                "name": "Arthur Melo",
+                "number": "18",
+                "position": "Defensywny pomocnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 275,
+            "fields": {
+                "name": "Douglas Luiz",
+                "number": "26",
+                "position": "Środkowy pomocnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 276,
+            "fields": {
+                "name": "Khéphren Thuram",
+                "number": "19",
+                "position": "Środkowy pomocnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 277,
+            "fields": {
+                "name": "Weston McKennie",
+                "number": "16",
+                "position": "Środkowy pomocnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 278,
+            "fields": {
+                "name": "Nicolò Fagioli",
+                "number": "21",
+                "position": "Środkowy pomocnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 279,
+            "fields": {
+                "name": "Teun Koopmeiners",
+                "number": "8",
+                "position": "Ofensywny pomocnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 280,
+            "fields": {
+                "name": "Vasilije Adžić",
+                "number": "17",
+                "position": "Ofensywny pomocnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 281,
+            "fields": {
+                "name": "Kenan Yıldız",
+                "number": "10",
+                "position": "Lewy napastnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 282,
+            "fields": {
+                "name": "Samuel Mbangula",
+                "number": "51",
+                "position": "Lewy napastnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 283,
+            "fields": {
+                "name": "Francisco Conceição",
+                "number": "7",
+                "position": "Prawy napastnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 284,
+            "fields": {
+                "name": "Nico González",
+                "number": "11",
+                "position": "Prawy napastnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 285,
+            "fields": {
+                "name": "Timothy Weah",
+                "number": "22",
+                "position": "Prawy napastnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 286,
+            "fields": {
+                "name": "Dušan Vlahović",
+                "number": "9",
+                "position": "Środkowy napastnik",
+                "club": 11
+            }
+        },
+        {
+            "model": "projekt.player",
+            "pk": 287,
+            "fields": {
+                "name": "Arkadiusz Milik",
+                "number": "14",
+                "position": "Środkowy napastnik",
+                "club": 11
+            }
+        },
+          {
+                "model": "projekt.club",
+                "pk": 12,
+                "fields": {
+                    "name": "AC Milan",
+                    "description": "AC Milan to jeden z najbardziej utytułowanych klubów we Włoszech, z siedzibą w Mediolanie. Klub został założony w 1899 roku.",
+                    "trophies": "AC Milan zdobył Mistrzostwo Włoch 19 razy, Puchar Włoch 5 razy, Superpuchar Włoch 7 razy oraz Ligę Mistrzów 7 razy."
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 288,
+                "fields": {
+                    "name": "Mike Maignan",
+                    "number": "16",
+                    "position": "Bramkarz",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 289,
+                "fields": {
+                    "name": "Marco Sportiello",
+                    "number": "57",
+                    "position": "Bramkarz",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 290,
+                "fields": {
+                    "name": "Lorenzo Torriani",
+                    "number": "96",
+                    "position": "Bramkarz",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 291,
+                "fields": {
+                    "name": "Fikayo Tomori",
+                    "number": "23",
+                    "position": "Środkowy obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 292,
+                "fields": {
+                    "name": "Malick Thiaw",
+                    "number": "28",
+                    "position": "Środkowy obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 293,
+                "fields": {
+                    "name": "Matteo Gabbia",
+                    "number": "46",
+                    "position": "Środkowy obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 294,
+                "fields": {
+                    "name": "Strahinja Pavlović",
+                    "number": "31",
+                    "position": "Środkowy obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 295,
+                "fields": {
+                    "name": "Theo Hernández",
+                    "number": "19",
+                    "position": "Boczny obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 296,
+                "fields": {
+                    "name": "Emerson Royal",
+                    "number": "22",
+                    "position": "Boczny obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 297,
+                "fields": {
+                    "name": "Davide Calabria",
+                    "number": "2",
+                    "position": "Boczny obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 298,
+                "fields": {
+                    "name": "Álex Jiménez",
+                    "number": "20",
+                    "position": "Boczny obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 299,
+                "fields": {
+                    "name": "Filippo Terracciano",
+                    "number": "42",
+                    "position": "Boczny obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 300,
+                "fields": {
+                    "name": "Alessandro Florenzi",
+                    "number": "24",
+                    "position": "Boczny obrońca",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 301,
+                "fields": {
+                    "name": "Youssouf Fofana",
+                    "number": "29",
+                    "position": "Defensywny pomocnik",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 302,
+                "fields": {
+                    "name": "Ismaël Bennacer",
+                    "number": "4",
+                    "position": "Defensywny pomocnik",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 303,
+                "fields": {
+                    "name": "Tijjani Reijnders",
+                    "number": "14",
+                    "position": "Środkowy pomocnik",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 304,
+                "fields": {
+                    "name": "Yunus Musah",
+                    "number": "80",
+                    "position": "Środkowy pomocnik",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 305,
+                "fields": {
+                    "name": "Ruben Loftus-Cheek",
+                    "number": "8",
+                    "position": "Środkowy pomocnik",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 306,
+                "fields": {
+                    "name": "Kevin Zeroli",
+                    "number": "18",
+                    "position": "Środkowy pomocnik",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 307,
+                "fields": {
+                    "name": "Rafael Leão",
+                    "number": "10",
+                    "position": "Skrzydłowy",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 308,
+                "fields": {
+                    "name": "Noah Okafor",
+                    "number": "17",
+                    "position": "Skrzydłowy",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 309,
+                "fields": {
+                    "name": "Christian Pulisic",
+                    "number": "11",
+                    "position": "Skrzydłowy",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 310,
+                "fields": {
+                    "name": "Samuel Chukwueze",
+                    "number": "21",
+                    "position": "Skrzydłowy",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 311,
+                "fields": {
+                    "name": "Tammy Abraham",
+                    "number": "90",
+                    "position": "Napastnik",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 312,
+                "fields": {
+                    "name": "Álvaro Morata",
+                    "number": "7",
+                    "position": "Napastnik",
+                    "club": 12
+                }
+            },
+            {
+                "model": "projekt.player",
+                "pk": 313,
+                "fields": {
+                    "name": "Luka Jović",
+                    "number": "9",
+                    "position": "Napastnik",
+                    "club": 12
+                }
+            },
+                {
+                    "model": "projekt.club",
+                    "pk": 13,
+                    "fields": {
+                        "name": "Napoli",
+                        "description": "Napoli to jeden z czołowych klubów we Włoszech, mający swoją siedzibę w Neapolu. Klub został założony w 1926 roku.",
+                        "trophies": "Napoli zdobył Mistrzostwo Włoch 3 razy, Puchar Włoch 6 razy, Superpuchar Włoch 2 razy oraz Ligę Mistrzów 0 razy."
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 314,
+                    "fields": {
+                        "name": "Alex Meret",
+                        "number": "1",
+                        "position": "Bramkarz",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 315,
+                    "fields": {
+                        "name": "Simone Scuffet",
+                        "number": "96",
+                        "position": "Bramkarz",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 316,
+                    "fields": {
+                        "name": "Nikita Contini",
+                        "number": "14",
+                        "position": "Bramkarz",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 317,
+                    "fields": {
+                        "name": "Claudio Turi",
+                        "number": "12",
+                        "position": "Bramkarz",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 318,
+                    "fields": {
+                        "name": "Alessandro Buongiorno",
+                        "number": "4",
+                        "position": "Środkowy obrońca",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 319,
+                    "fields": {
+                        "name": "Amir Rrahmani",
+                        "number": "13",
+                        "position": "Środkowy obrońca",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 320,
+                    "fields": {
+                        "name": "Rafa Marín",
+                        "number": "16",
+                        "position": "Środkowy obrońca",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 321,
+                    "fields": {
+                        "name": "Juan Jesus",
+                        "number": "5",
+                        "position": "Środkowy obrońca",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 322,
+                    "fields": {
+                        "name": "Mathías Olivera",
+                        "number": "17",
+                        "position": "Boczny obrońca",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 323,
+                    "fields": {
+                        "name": "Leonardo Spinazzola",
+                        "number": "22",
+                        "position": "Boczny obrońca",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 324,
+                    "fields": {
+                        "name": "Giovanni Di Lorenzo",
+                        "number": "30",
+                        "position": "Boczny obrońca",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 325,
+                    "fields": {
+                        "name": "Pasquale Mazzocchi",
+                        "number": "68",
+                        "position": "Boczny obrońca",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 326,
+                    "fields": {
+                        "name": "Stanislav Lobotka",
+                        "number": "77",
+                        "position": "Defensywny pomocnik",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 327,
+                    "fields": {
+                        "name": "Billy Gilmour",
+                        "number": "6",
+                        "position": "Defensywny pomocnik",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 328,
+                    "fields": {
+                        "name": "Scott McTominay",
+                        "number": "8",
+                        "position": "Środkowy pomocnik",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 329,
+                    "fields": {
+                        "name": "Frank Anguissa",
+                        "number": "99",
+                        "position": "Środkowy pomocnik",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 330,
+                    "fields": {
+                        "name": "Philip Billing",
+                        "number": "29",
+                        "position": "Środkowy pomocnik",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 331,
+                    "fields": {
+                        "name": "Luis Hasa",
+                        "number": "77",
+                        "position": "Środkowy pomocnik",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 332,
+                    "fields": {
+                        "name": "Khvicha Kvaratskhelia",
+                        "number": "23",
+                        "position": "Skrzydłowy",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 333,
+                    "fields": {
+                        "name": "Alessio Zerbin",
+                        "number": "7",
+                        "position": "Skrzydłowy",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 334,
+                    "fields": {
+                        "name": "David Neres",
+                        "number": "26",
+                        "position": "Skrzydłowy",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 335,
+                    "fields": {
+                        "name": "Cyril Ngonge",
+                        "number": "21",
+                        "position": "Skrzydłowy",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 336,
+                    "fields": {
+                        "name": "Matteo Politano",
+                        "number": "81",
+                        "position": "Skrzydłowy",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 337,
+                    "fields": {
+                        "name": "Giacomo Raspadori",
+                        "number": "11",
+                        "position": "Napastnik",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 338,
+                    "fields": {
+                        "name": "Romelu Lukaku",
+                        "number": "18",
+                        "position": "Napastnik",
+                        "club": 13
+                    }
+                },
+                {
+                    "model": "projekt.player",
+                    "pk": 339,
+                    "fields": {
+                        "name": "Giovanni Simeone",
+                        "number": "19",
+                        "position": "Napastnik",
+                        "club": 13
+                    }
+                },
+                    {
+                        "model": "projekt.club",
+                        "pk": 14,
+                        "fields": {
+                            "name": "Borussia Dortmund",
+                            "description": "Borussia Dortmund to niemiecki klub piłkarski, który ma swoją siedzibę w Dortmundzie. Jest jednym z najbardziej utytułowanych klubów w Niemczech.",
+                            "trophies": "Borussia Dortmund zdobyła Mistrzostwo Niemiec 5 razy, Puchar Niemiec 5 razy oraz Ligę Mistrzów 1 raz."
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 340,
+                        "fields": {
+                            "name": "Gregor Kobel",
+                            "number": "1",
+                            "position": "Bramkarz",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 341,
+                        "fields": {
+                            "name": "Marcel Lotka",
+                            "number": "35",
+                            "position": "Bramkarz",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 342,
+                        "fields": {
+                            "name": "Alexander Meyer",
+                            "number": "33",
+                            "position": "Bramkarz",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 343,
+                        "fields": {
+                            "name": "Silas Ostrzinski",
+                            "number": "31",
+                            "position": "Bramkarz",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 344,
+                        "fields": {
+                            "name": "Nico Schlotterbeck",
+                            "number": "4",
+                            "position": "Środkowy obrońca",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 345,
+                        "fields": {
+                            "name": "Waldemar Anton",
+                            "number": "3",
+                            "position": "Środkowy obrońca",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 346,
+                        "fields": {
+                            "name": "Niklas Süle",
+                            "number": "25",
+                            "position": "Środkowy obrońca",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 347,
+                        "fields": {
+                            "name": "Filippo Mané",
+                            "number": "39",
+                            "position": "Środkowy obrońca",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 348,
+                        "fields": {
+                            "name": "Ramy Bensebaini",
+                            "number": "5",
+                            "position": "Boczny Obrońca",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 349,
+                        "fields": {
+                            "name": "Almugera Kabar",
+                            "number": "42",
+                            "position": "Boczny Obrońca",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 350,
+                        "fields": {
+                            "name": "Yan Couto",
+                            "number": "2",
+                            "position": "Boczny Obrońca",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 351,
+                        "fields": {
+                            "name": "Julian Ryerson",
+                            "number": "26",
+                            "position": "Boczny Obrońca",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 352,
+                        "fields": {
+                            "name": "Emre Can",
+                            "number": "23",
+                            "position": "Defensywny pomocnik",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 353,
+                        "fields": {
+                            "name": "Felix Nmecha",
+                            "number": "8",
+                            "position": "Środkowy pomocnik",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 354,
+                        "fields": {
+                            "name": "Marcel Sabitzer",
+                            "number": "20",
+                            "position": "Środkowy pomocnik",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 355,
+                        "fields": {
+                            "name": "Pascal Groß",
+                            "number": "13",
+                            "position": "Środkowy pomocnik",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 356,
+                        "fields": {
+                            "name": "Kjell Wätjen",
+                            "number": "38",
+                            "position": "Środkowy pomocnik",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 357,
+                        "fields": {
+                            "name": "Julian Brandt",
+                            "number": "10",
+                            "position": "Ofensywny pomocnik",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 358,
+                        "fields": {
+                            "name": "Giovanni Reyna",
+                            "number": "7",
+                            "position": "Ofensywny pomocnik",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 359,
+                        "fields": {
+                            "name": "Jamie Gittens",
+                            "number": "43",
+                            "position": "Skrzydłowy",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 360,
+                        "fields": {
+                            "name": "Karim Adeyemi",
+                            "number": "27",
+                            "position": "Skrzydłowy",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 361,
+                        "fields": {
+                            "name": "Julien Duranville",
+                            "number": "16",
+                            "position": "Skrzydłowy",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 362,
+                        "fields": {
+                            "name": "Cole Campbell",
+                            "number": "37",
+                            "position": "Skrzydłowy",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 363,
+                        "fields": {
+                            "name": "Serhou Guirassy",
+                            "number": "9",
+                            "position": "Napastnik",
+                            "club": 14
+                        }
+                    },
+                    {
+                        "model": "projekt.player",
+                        "pk": 364,
+                        "fields": {
+                            "name": "Maximilian Beier",
+                            "number": "14",
+                            "position": "Napastnik",
+                            "club": 14
+                        }
+                    },
+                  {
+                            "model": "projekt.club",
+                            "pk": 15,
+                            "fields": {
+                                "name": "Bayern Monachium",
+                                "description": "Bayern Monachium to niemiecki klub piłkarski z siedzibą w Monachium, jeden z najbardziej utytułowanych klubów w historii niemieckiej piłki.",
+                                "trophies": "Bayern Monachium zdobył Mistrzostwo Niemiec 32 razy, Puchar Niemiec 20 razy oraz Ligę Mistrzów 6 razy."
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 365,
+                            "fields": {
+                                "name": "Manuel Neuer",
+                                "number": "1",
+                                "position": "Bramkarz",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 366,
+                            "fields": {
+                                "name": "Daniel Peretz",
+                                "number": "18",
+                                "position": "Bramkarz",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 367,
+                            "fields": {
+                                "name": "Sven Ulreich",
+                                "number": "26",
+                                "position": "Bramkarz",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 368,
+                            "fields": {
+                                "name": "Dayot Upamecano",
+                                "number": "2",
+                                "position": "Środkowy obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 369,
+                            "fields": {
+                                "name": "Min-jae Kim",
+                                "number": "3",
+                                "position": "Środkowy obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 370,
+                            "fields": {
+                                "name": "Hiroki Ito",
+                                "number": "21",
+                                "position": "Środkowy obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 371,
+                            "fields": {
+                                "name": "Eric Dier",
+                                "number": "15",
+                                "position": "Środkowy obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 372,
+                            "fields": {
+                                "name": "Tarek Buchmann",
+                                "number": "28",
+                                "position": "Środkowy obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 373,
+                            "fields": {
+                                "name": "Alphonso Davies",
+                                "number": "19",
+                                "position": "Boczny obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 374,
+                            "fields": {
+                                "name": "Raphaël Guerreiro",
+                                "number": "22",
+                                "position": "Boczny obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 375,
+                            "fields": {
+                                "name": "Adam Aznou",
+                                "number": "49",
+                                "position": "Boczny obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 376,
+                            "fields": {
+                                "name": "Josip Stanisic",
+                                "number": "44",
+                                "position": "Boczny obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 377,
+                            "fields": {
+                                "name": "Sacha Boey",
+                                "number": "23",
+                                "position": "Boczny obrońca",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 378,
+                            "fields": {
+                                "name": "Joshua Kimmich",
+                                "number": "6",
+                                "position": "Defensywny pomocnik",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 379,
+                            "fields": {
+                                "name": "Aleksandar Pavlovic",
+                                "number": "45",
+                                "position": "Defensywny pomocnik",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 380,
+                            "fields": {
+                                "name": "João Palhinha",
+                                "number": "16",
+                                "position": "Defensywny pomocnik",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 381,
+                            "fields": {
+                                "name": "Konrad Laimer",
+                                "number": "27",
+                                "position": "Środkowy pomocnik",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 382,
+                            "fields": {
+                                "name": "Leon Goretzka",
+                                "number": "8",
+                                "position": "Środkowy pomocnik",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 383,
+                            "fields": {
+                                "name": "Jamal Musiala",
+                                "number": "42",
+                                "position": "Ofensywny pomocnik",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 384,
+                            "fields": {
+                                "name": "Serge Gnabry",
+                                "number": "7",
+                                "position": "Skrzydłowy",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 385,
+                            "fields": {
+                                "name": "Kingsley Coman",
+                                "number": "11",
+                                "position": "Skrzydłowy",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 386,
+                            "fields": {
+                                "name": "Mathys Tel",
+                                "number": "39",
+                                "position": "Skrzydłowy",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 387,
+                            "fields": {
+                                "name": "Michael Olise",
+                                "number": "17",
+                                "position": "Skrzydłowy",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 388,
+                            "fields": {
+                                "name": "Leroy Sané",
+                                "number": "10",
+                                "position": "Skrzydłowy",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 389,
+                            "fields": {
+                                "name": "Thomas Müller",
+                                "number": "25",
+                                "position": "Napastnik",
+                                "club": 15
+                            }
+                        },
+                        {
+                            "model": "projekt.player",
+                            "pk": 390,
+                            "fields": {
+                                "name": "Harry Kane",
+                                "number": "9",
+                                "position": "Napastnik",
+                                "club": 15
+                            }
+                        },
+                            {
+                                "model": "projekt.club",
+                                "pk": 16,
+                                "fields": {
+                                    "name": "Paris Saint-Germain",
+                                    "description": "Paris Saint-Germain to francuski klub piłkarski z siedzibą w Paryżu, jeden z najbardziej utytułowanych klubów w historii francuskiej piłki.",
+                                    "trophies": "Paris Saint-Germain zdobył Mistrzostwo Francji 11 razy, Puchar Francji 14 razy oraz Ligę Mistrzów 1 raz."
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 391,
+                                "fields": {
+                                    "name": "Gianluigi Donnarumma",
+                                    "number": "1",
+                                    "position": "Bramkarz",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 392,
+                                "fields": {
+                                    "name": "Matvey Safonov",
+                                    "number": "39",
+                                    "position": "Bramkarz",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 393,
+                                "fields": {
+                                    "name": "Arnau Tenas",
+                                    "number": "80",
+                                    "position": "Bramkarz",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 394,
+                                "fields": {
+                                    "name": "Marquinhos",
+                                    "number": "5",
+                                    "position": "Środkowy obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 395,
+                                "fields": {
+                                    "name": "Willian Pacho",
+                                    "number": "51",
+                                    "position": "Środkowy obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 396,
+                                "fields": {
+                                    "name": "Lucas Beraldo",
+                                    "number": "35",
+                                    "position": "Środkowy obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 397,
+                                "fields": {
+                                    "name": "Milan Skriniar",
+                                    "number": "37",
+                                    "position": "Środkowy obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 398,
+                                "fields": {
+                                    "name": "Presnel Kimpembe",
+                                    "number": "3",
+                                    "position": "Środkowy obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 399,
+                                "fields": {
+                                    "name": "Nuno Mendes",
+                                    "number": "25",
+                                    "position": "Boczny obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 400,
+                                "fields": {
+                                    "name": "Lucas Hernández",
+                                    "number": "21",
+                                    "position": "Boczny obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 401,
+                                "fields": {
+                                    "name": "Achraf Hakimi",
+                                    "number": "2",
+                                    "position": "Boczny obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 402,
+                                "fields": {
+                                    "name": "Yoram Zague",
+                                    "number": "42",
+                                    "position": "Boczny obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 403,
+                                "fields": {
+                                    "name": "Naoufel El Hannach",
+                                    "number": "45",
+                                    "position": "Boczny obrońca",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 404,
+                                "fields": {
+                                    "name": "João Neves",
+                                    "number": "87",
+                                    "position": "Defensywny pomocnik",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 405,
+                                "fields": {
+                                    "name": "Warren Zaïre-Emery",
+                                    "number": "33",
+                                    "position": "Środkowy pomocnik",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 406,
+                                "fields": {
+                                    "name": "Vitinha",
+                                    "number": "17",
+                                    "position": "Środkowy pomocnik",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 407,
+                                "fields": {
+                                    "name": "Fabián Ruiz",
+                                    "number": "8",
+                                    "position": "Środkowy pomocnik",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 408,
+                                "fields": {
+                                    "name": "Senny Mayulu",
+                                    "number": "24",
+                                    "position": "Środkowy pomocnik",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 409,
+                                "fields": {
+                                    "name": "Bradley Barcola",
+                                    "number": "29",
+                                    "position": "Skrzydłowy",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 410,
+                                "fields": {
+                                    "name": "Désiré Doué",
+                                    "number": "14",
+                                    "position": "Skrzydłowy",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 411,
+                                "fields": {
+                                    "name": "Ousmane Dembélé",
+                                    "number": "10",
+                                    "position": "Skrzydłowy",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 412,
+                                "fields": {
+                                    "name": "Kang-in Lee",
+                                    "number": "19",
+                                    "position": "Skrzydłowy",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 413,
+                                "fields": {
+                                    "name": "Marco Asensio",
+                                    "number": "11",
+                                    "position": "Skrzydłowy",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 414,
+                                "fields": {
+                                    "name": "Ibrahim Mbaye",
+                                    "number": "49",
+                                    "position": "Skrzydłowy",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 415,
+                                "fields": {
+                                    "name": "Gonçalo Ramos",
+                                    "number": "9",
+                                    "position": "Napastnik",
+                                    "club": 16
+                                }
+                            },
+                            {
+                                "model": "projekt.player",
+                                "pk": 416,
+                                "fields": {
+                                    "name": "Randal Kolo Muani",
+                                    "number": "23",
+                                    "position": "Napastnik",
+                                    "club": 16
+                                }
+                            }                                                      
+    ]
+    
